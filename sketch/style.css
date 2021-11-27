@@ -1,0 +1,87 @@
+html,
+body,
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Barlow, sans-serif;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 90%;
+  max-width: 800px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.options {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  display: flex;
+}
+
+button.opt {
+  width: 100%;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  color: #000;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+  outline: none;
+}
+button.opt:hover {
+  background: blue;
+  color: #fff;
+}
+
+.nav-btn {
+  display: flex;
+}
+
+/*next button styles  */
+.nav {
+  width: 100%;
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 1.5rem;
+  margin: 10px 0;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+  outline: none;
+}
+
+.nav:disabled {
+  background-color: #aaa;
+  color: #fff;
+}
+
+button.opt.correct {
+  background-color: #4caf50; /* Green */
+  color: #fff;
+}
+
+button.opt.wrong {
+  background-color: #f44336; /* Red */
+  color: #fff;
+}
+img {
+  display: block;
+  width: 100%;
+}

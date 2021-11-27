@@ -1,0 +1,19 @@
+{
+  "name": "image-ocr-pos",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "image-js": "^0.33.1",
+    "progress": "^2.0.3",
+    "tesseract.js": "^2.1.5"
+  }
+}

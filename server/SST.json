@@ -1,0 +1,842 @@
+[
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am101.png",
+    "correctOpt": "a",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am102.png",
+    "correctOpt": "b",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am103.png",
+    "correctOpt": "a",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am104.png",
+    "correctOpt": "b",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am105.png",
+    "correctOpt": "a",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 492,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am106.png",
+    "correctOpt": "c",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am107.png",
+    "correctOpt": "undefined",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am108.png",
+    "correctOpt": "a",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 492,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am109.png",
+    "correctOpt": "a",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 642,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am110.png",
+    "correctOpt": "d",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am111.png",
+    "correctOpt": "b",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am112.png",
+    "correctOpt": "b",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am113.png",
+    "correctOpt": "d",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am114.png",
+    "correctOpt": "c",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am115.png",
+    "correctOpt": "a",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am116.png",
+    "correctOpt": "a",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am117.png",
+    "correctOpt": "a",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am118.png",
+    "correctOpt": "a",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am119.png",
+    "correctOpt": "b",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/am120.png",
+    "correctOpt": "a",
+    "chapter": "The Rise of Nationalism in Europe"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm101.png",
+    "correctOpt": "c",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 492,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm102.png",
+    "correctOpt": "b",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 542,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm103.png",
+    "correctOpt": "d",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm104.png",
+    "correctOpt": "undefined",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm105.png",
+    "correctOpt": "b",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm106.png",
+    "correctOpt": "b",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm107.png",
+    "correctOpt": "d",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm108.png",
+    "correctOpt": "c",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm109.png",
+    "correctOpt": "c",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm110.png",
+    "correctOpt": "b",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm111.png",
+    "correctOpt": "c",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm112.png",
+    "correctOpt": "b",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm113.png",
+    "correctOpt": "a",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm114.png",
+    "correctOpt": "undefined",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 492,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm115.png",
+    "correctOpt": "c",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm116.png",
+    "correctOpt": "d",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm117.png",
+    "correctOpt": "c",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm118.png",
+    "correctOpt": "c",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm119.png",
+    "correctOpt": "a",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 492,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/bm120.png",
+    "correctOpt": "c",
+    "chapter": "Resources and Development"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm101.png",
+    "correctOpt": "c",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm102.png",
+    "correctOpt": "a",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm103.png",
+    "correctOpt": "d",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm104.png",
+    "correctOpt": "a",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm105.png",
+    "correctOpt": "d",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm106.png",
+    "correctOpt": "b",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm107.png",
+    "correctOpt": "a",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm108.png",
+    "correctOpt": "a",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm109.png",
+    "correctOpt": "b",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm110.png",
+    "correctOpt": "b",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm111.png",
+    "correctOpt": "d",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm112.png",
+    "correctOpt": "d",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm113.png",
+    "correctOpt": "d",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm114.png",
+    "correctOpt": "a",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm115.png",
+    "correctOpt": "a",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm116.png",
+    "correctOpt": "d",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm117.png",
+    "correctOpt": "d",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm118.png",
+    "correctOpt": "a",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm119.png",
+    "correctOpt": "b",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/cm120.png",
+    "correctOpt": "c",
+    "chapter": "Agriculture"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm101.png",
+    "correctOpt": "a",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm102.png",
+    "correctOpt": "d",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm103.png",
+    "correctOpt": "a",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm104.png",
+    "correctOpt": "a",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm105.png",
+    "correctOpt": "a",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm106.png",
+    "correctOpt": "c",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm107.png",
+    "correctOpt": "a",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm108.png",
+    "correctOpt": "d",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm109.png",
+    "correctOpt": "b",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 742,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm110.png",
+    "correctOpt": "c",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm111.png",
+    "correctOpt": "d",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm112.png",
+    "correctOpt": "d",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm113.png",
+    "correctOpt": "c",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm114.png",
+    "correctOpt": "a",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm115.png",
+    "correctOpt": "a",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm116.png",
+    "correctOpt": "a",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm117.png",
+    "correctOpt": "c",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm118.png",
+    "correctOpt": "c",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm119.png",
+    "correctOpt": "c",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/fm120.png",
+    "correctOpt": "b",
+    "chapter": "Power Sharing"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm101.png",
+    "correctOpt": "b",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm102.png",
+    "correctOpt": "c",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 642,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm103.png",
+    "correctOpt": "a",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm104.png",
+    "correctOpt": "c",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm105.png",
+    "correctOpt": "a",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm106.png",
+    "correctOpt": "c",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm107.png",
+    "correctOpt": "undefined",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 492,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm108.png",
+    "correctOpt": "b",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 492,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm109.png",
+    "correctOpt": "d",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm110.png",
+    "correctOpt": "c",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 492,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm111.png",
+    "correctOpt": "b",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm112.png",
+    "correctOpt": "b",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm113.png",
+    "correctOpt": "a",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm114.png",
+    "correctOpt": "b",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm115.png",
+    "correctOpt": "c",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm116.png",
+    "correctOpt": "c",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm117.png",
+    "correctOpt": "b",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm118.png",
+    "correctOpt": "b",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 592,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm119.png",
+    "correctOpt": "d",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/gm120.png",
+    "correctOpt": "c",
+    "chapter": "Federalism"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm101.png",
+    "correctOpt": "d",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm102.png",
+    "correctOpt": "c",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm103.png",
+    "correctOpt": "d",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm104.png",
+    "correctOpt": "a",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm105.png",
+    "correctOpt": "d",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 542,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm106.png",
+    "correctOpt": "undefined",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm107.png",
+    "correctOpt": "d",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm108.png",
+    "correctOpt": "d",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm109.png",
+    "correctOpt": "c",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm110.png",
+    "correctOpt": "a",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm111.png",
+    "correctOpt": "d",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm112.png",
+    "correctOpt": "d",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm113.png",
+    "correctOpt": "b",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm114.png",
+    "correctOpt": "b",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm115.png",
+    "correctOpt": "d",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm116.png",
+    "correctOpt": "b",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm117.png",
+    "correctOpt": "b",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm118.png",
+    "correctOpt": "c",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm119.png",
+    "correctOpt": "b",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 542,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/hm120.png",
+    "correctOpt": "undefined",
+    "chapter": "Development"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om101.png",
+    "correctOpt": "b",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om102.png",
+    "correctOpt": "a",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om103.png",
+    "correctOpt": "b",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om104.png",
+    "correctOpt": "a",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om105.png",
+    "correctOpt": "b",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om106.png",
+    "correctOpt": "undefined",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om107.png",
+    "correctOpt": "d",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 592,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om108.png",
+    "correctOpt": "a",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om109.png",
+    "correctOpt": "d",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om110.png",
+    "correctOpt": "b",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om111.png",
+    "correctOpt": "c",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om112.png",
+    "correctOpt": "c",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om113.png",
+    "correctOpt": "b",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om114.png",
+    "correctOpt": "c",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 492,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om115.png",
+    "correctOpt": "d",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 492,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om116.png",
+    "correctOpt": "c",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 442,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om117.png",
+    "correctOpt": "d",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om118.png",
+    "correctOpt": "c",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 342,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om119.png",
+    "correctOpt": "b",
+    "chapter": "Sectors of Indian Economy"
+  },
+  {
+    "yCrop": 392,
+    "url": "https://jess.sgp1.cdn.digitaloceanspaces.com/om120.png",
+    "correctOpt": "b",
+    "chapter": "Sectors of Indian Economy"
+  }
+]
